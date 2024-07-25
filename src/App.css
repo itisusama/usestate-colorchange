@@ -1,0 +1,19 @@
+.color__box{
+  height: 100px;
+  width: 100px;
+  border: 2px solid black;
+}
+
+.App{
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.colorChange__box{
+  display: flex;
+  flex-direction: column;
+  gap: 0.7rem;
+}
